@@ -1,0 +1,18 @@
+@media(max-width: 1220px){
+    .nav-item li{
+        display: none;
+    }
+    .icon{
+        float: right;
+        margin-top: -17px;
+        display: block;
+        color: aqua;
+        font-size: 25px;
+    }
+    .header{
+        width: 100%;
+    }
+    .nav-item{
+
+    }
+}
